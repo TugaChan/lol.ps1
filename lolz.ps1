@@ -1,4 +1,4 @@
 Start-Sleep -Seconds 30
-start chrome "C:\Users\sirto\Downloads\moan.mp3"
+start chrome "C:\ProgramData\moan.mp3"
 
 
